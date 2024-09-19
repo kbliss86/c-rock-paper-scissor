@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-rock-paper-scissor\Roshambo-RPS\bin\Debug\Roshambo-RPS.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-rock-paper-scissor\Roshambo-RPS\bin\Debug\Roshambo-RPS.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-rock-paper-scissor\Roshambo-RPS\bin\Debug\Roshambo-RPS.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-rock-paper-scissor\Roshambo-RPS\obj\Debug\Roshambo-RPS.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-rock-paper-scissor\Roshambo-RPS\obj\Debug\Roshambo-RPS.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-rock-paper-scissor\Roshambo-RPS\obj\Debug\Roshambo-RPS.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-rock-paper-scissor\Roshambo-RPS\obj\Debug\Roshambo-RPS.pdb
